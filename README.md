@@ -1,5 +1,4 @@
-# PROJECT NAME
-Hospital-Data-Analysis
+# PROJECT NAME - Hospital-Data-Analysis
 
 # OVERVIEW
 Designed and developed interactive Power BI dashboards to visualize hospital performance metrics, enabling leadership to identify key trends and improve decision-making processes. Analyzed patient admission, discharge, and treatment data to identify pattern, ensuring accuracy and consistency across multiple data sources.Created complex DAX measures and calculated columns to analyze trends and deliver actionable insights.
